@@ -117,12 +117,13 @@ export const styles = StyleSheet.create({
 
   listEmpty: {
     color: '#6b6b6b',
-    alignItems: 'center'
+    alignItems: 'center',
   },
 
   emptyTextTitle: {
     color: '#808080',
-    fontWeight: "700"
+    fontWeight: "700",
+    paddingTop: 15,
   },
 
   emptyText: {
